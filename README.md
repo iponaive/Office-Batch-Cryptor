@@ -4,7 +4,7 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
 
-[English](README_en.md) | [日本語](README_ja.md) [繁體中文](README.md) |
+[English](README_en.md) | [日本語](README_ja.md) | [繁體中文](README.md) 
 
 ## 核心功能
 * 高效批次：當該批次檔案的加密密碼相同、或解密密碼相同，即可一次處理大量檔案。
