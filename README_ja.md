@@ -8,7 +8,7 @@ PowerShell ベースの Excel & Word 一括自動暗号化・復号ツールで�
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
 
-![](https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9)
+https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
 
 ## 主な機能
 * **効率的な一括処理:** 同じ暗号化パスワード、または同じ復号パスワードを使用する場合、大量のファイルを一度に処理できます。
