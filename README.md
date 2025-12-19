@@ -30,35 +30,3 @@
 ├── input_to_decrypt/         # 待解密檔案路徑
 ├── encrypt_password.txt      # (選填) 自定義加密密碼；空白則使用預設密碼
 └── decrypt_password.txt      # (選填) 自定義解密密碼；空白則使用預設密碼
-# Office-Batch-Cryptor
-
-[繁體中文](README.md) | [English](README_en.md)
-
-A PowerShell-based automation tool for batch encrypting and decrypting Excel & Word files. Supports custom password logic and simultaneous batch processing.
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
-
-## Core Features
-* **High Efficiency:** Process massive amounts of files at once if they share the same password.
-* **Simultaneous Processing:** Supports running encryption and decryption tasks at the same time.
-* **Custom Keys:** Prioritizes `.txt` password files; falls back to default password (Kpmg123) if missing.
-* **Format Support:** Compatible with Excel (.xlsx, .xlsm, .xls) and Word (.docx, .doc).
-
-## Technical Highlights
-* **Anti-Hanging Protection:** Double-detection (empty password test) to prevent Office authentication pop-ups from freezing the automation.
-* **Resource Optimization:** Integrated `Marshal.ReleaseComObject` and .NET GC to ensure no residual processes.
-* **Security & Safety:** Auto-detects/removes Read-Only attributes and implements a fallback mechanism for `SaveAs2` failures.
-
-## Usage
-1. Place your files in the corresponding folders.
-2. Run `run.bat` to start; a summary report will be displayed upon completion.
-
-## Project Structure
-```text
-.
-├── AutoEncryptDecrypt.ps1    # Core logic
-├── run.bat                   # Batch starter
-├── input_to_encrypt/         # Files to be encrypted
-├── input_to_decrypt/         # Files to be decrypted
-├── encrypt_password.txt      # (Optional) Custom encryption password
-└── decrypt_password.txt      # (Optional) Custom decryption password
