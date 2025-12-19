@@ -3,7 +3,7 @@
 簡而言之，一次同時大量加密、大量解密檔案，密碼自選或預設。
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
-
+[繁體中文](README.md) | [English](README_en.md)
 
 ## 核心功能
 * 高效批次：當該批次檔案的加密密碼相同、或解密密碼相同，即可一次處理大量檔案。
