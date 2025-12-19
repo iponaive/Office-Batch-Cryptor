@@ -1,6 +1,9 @@
 # Office-Batch-Cryptor
+
 [English](README_en.md) | [日本語](README_ja.md) | [繁體中文](README.md) | [한국어](README_ko.md)
+
 A PowerShell-based automation tool for batch encrypting and decrypting Excel & Word files. Supports custom password logic and simultaneous batch processing.
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
 
 https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
