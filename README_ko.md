@@ -8,6 +8,8 @@ PowerShell 기반의 Excel & Word 배치 자동 암호화/복호화 도구입니
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
 
+https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
+
 ## 핵심 기능
 * **고효율 배치 처리:** 동일한 암호화 또는 복호화 비밀번호를 사용하는 경우, 대량의 파일을 한 번에 처리할 수 있습니다.
 * **동시 처리 지원:** 암호화 및 복호화 작업을 동시에 수행할 수 있습니다.
