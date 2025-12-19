@@ -4,6 +4,8 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
 
+Uploading 2025-12-20 00-56-57.mp4…
+
 [English](README_en.md) | [日本語](README_ja.md) | [繁體中文](README.md) | [한국어](README_ko.md)
 
 ## 核心功能
