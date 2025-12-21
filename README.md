@@ -31,8 +31,8 @@ https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
 2. Run `run.bat` to start batch processing. A summary will be displayed upon completion.
 
 ## Project Structure
-```text
-.
+```yaml
+.Office-Batch-Cryptor
 ├── AutoEncryptDecrypt.ps1    # Core automation logic
 ├── run.bat                   # Quick start batch file
 ├── input_to_encrypt/         # Path for files to be encrypted
