@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
 * 分組密鑰邏輯：可分別為加密與解密任務設定不同的金鑰。
 * 檔案支援：相容於 Excel (.xlsx, .xlsm, .xls) 與 Word (.docx, .doc) 格式。
 
-## 技術實現亮點
+## 技術實現
 * 異常中斷防護：開啟檔案時採雙重偵測（空密碼測試），避免 Office 認證彈窗導致自動化程序掛起。
 * 系統資源優化：整合 Marshal.ReleaseComObject 與 .NET 垃圾回收機制，確保大量處理後系統無殘留進程。
 * 操作安全：自動檢測並解除唯讀屬性，並實作 SaveAs2 失敗時的 Fallback 回退機制。
