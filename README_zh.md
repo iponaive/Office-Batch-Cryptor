@@ -1,12 +1,13 @@
 # Office-Batch-Cryptor
 一款基於 PowerShell 實現的 Excel &amp; Word 批次自動化加解密工具。支援自定義密碼邏輯，並可「同時」執行大量檔案的加密與解密。
  <br> 簡而言之，一次同時大量加密、大量解密檔案，密碼自選或預設。
+  <br> 
+ [English](README.md) | [日本語](README_ja.md) | [繁體中文](README_zh.md) | [한국어](README_ko.md)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg) ![Office](https://img.shields.io/badge/Microsoft-Office-red.svg)
 
 https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
 
-[English](README.md) | [日本語](README_ja.md) | [繁體中文](README_zh.md) | [한국어](README_ko.md)
 
 ## 核心功能
 * 高效批次：當該批次檔案的加密密碼相同、或解密密碼相同，即可一次處理大量檔案。
