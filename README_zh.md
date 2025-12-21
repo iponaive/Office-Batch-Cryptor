@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
 
 ## 專案結構
 ```text
-.
+.Office-Batch-Cryptor/
 ├── AutoEncryptDecrypt.ps1    # 核心自動化邏輯
 ├── run.bat                   # 快速啟動批次檔
 ├── input_to_encrypt/         # 待加密檔案路徑
