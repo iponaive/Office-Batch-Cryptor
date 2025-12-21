@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/fb2fbc2c-6dc2-40bb-85fb-841e0b1918b9
 2. 執行 run.bat 開始批次處理，完成後會顯示處理統計。
 
 ## 專案結構
-```text
+```yaml
 .Office-Batch-Cryptor/
 ├── AutoEncryptDecrypt.ps1    # 核心自動化邏輯
 ├── run.bat                   # 快速啟動批次檔
